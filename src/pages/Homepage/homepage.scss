@@ -1,0 +1,17 @@
+.top-menu {
+  background: black;
+
+  ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+
+    li{
+      color: #fff;
+      padding: 5px 15px;
+      font-weight: bold;
+      font-size: 20px;
+    }
+  }
+}
